@@ -1,5 +1,3 @@
-### Hi there 👋
-
 🌍SNS
 
 <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
