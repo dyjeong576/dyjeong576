@@ -14,3 +14,15 @@
 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 
+🖥️GitHub Stats
+
+![dyjeong576's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyjeong576&show_icons=true&theme=dark) 
+
+🎖️BackJoon Solved Rank
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dyjeong576)](https://solved.ac/dyjeong576)
+
+✒️Most Used Language
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyjeong576&layout=compact&theme=dark)
+
